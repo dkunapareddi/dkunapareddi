@@ -1,18 +1,336 @@
-# 💫 About Me:
-🔭 I'm currently working on SQL and PL/SQL development, business intelligence reporting, data analysis, and reporting automation.<br><br>👯 I'm looking to collaborate on Data Analytics, Business Intelligence, SQL, and Power BI projects.<br><br>🤝 I'm looking for help with advanced data engineering concepts, cloud analytics, and modern BI technologies.<br><br>🌱 I'm currently learning advanced Power BI, DAX, Python for Data Analytics, and cloud-based data solutions.<br><br>💬 Ask me about Oracle SQL, PL/SQL, Data Analysis, Crystal Reports, JasperReports, and business reporting solutions.<br><br>⚡ Fun fact: I enjoy turning complex datasets into meaningful business insights and finding smarter ways to automate reporting processes.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:5b21b6,100:4f46e5&height=220&section=header&text=Deepthi%20Sri%20Kunapareddi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Business%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepthi-sri-kunapareddi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkunapareddi@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+decisions+leaders+trust;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Snowflake;FP%26A+%E2%80%A2+Forecasting+%E2%80%A2+Data+Quality+%E2%80%A2+Automation;Business+Systems+%E2%80%A2+ERP+Analytics+%E2%80%A2+Reporting" alt="Typing SVG"/>
 
-# 💻 Tech Stack:
-![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dkunapareddi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dkunapareddi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dkunapareddi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://img.shields.io/badge/M.S.-Business%20Analytics-5b21b6?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communications-4f46e5?style=flat-square&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Phoenix%2C%20AZ-6d28d9?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/deepthi-sri-kunapareddi"><img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dkunapareddi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/dkunapareddi"><img src="https://img.shields.io/badge/GitHub-Follow-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dkunapareddi&style=flat-square&color=7c3aed&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/dkunapareddi?style=flat-square&color=6d28d9&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/dkunapareddi?style=flat-square&color=4f46e5&logo=github&label=Stars"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=dkunapareddi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a **Data & Business Intelligence Analyst** with **5+ years** of experience turning complex operational and financial data into reliable reporting, forecasts, and decisions. My work sits at the intersection of **analytics, business systems, and automation**: I write the SQL, build the data models and dashboards, and partner with stakeholders until the insight changes a decision.
+
+- **Data & BI:** SQL / PL-SQL, Power BI (DAX), Tableau, Snowflake, data modeling, KPI design
+- **Financial Analytics:** FP&A, forecasting, variance analysis, profitability and scenario modeling
+- **Business Systems:** ERP analytics (SAP, Quantum ERP), requirements, gap analysis, UAT
+- **Automation:** Power Automate, Power Apps, Excel VBA, Python for repeatable workflows
+- **Machine Learning:** regression, classification, EDA, and statistical modeling in Python
+
+Currently a **System Analyst at Ascent Aviation Services**, building SQL-driven reporting and automation for aviation MRO operations.
+
+**Open To:** Data Analyst · BI Analyst · Business Systems Analyst · Financial / Revenue Analytics roles (Remote, U.S.)
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/SQL-4f46e5?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-5b21b6?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-6d28d9?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/VBA-4338ca?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+**Business Intelligence & Visualization**
+
+<img src="https://img.shields.io/badge/Power%20BI-5b21b6?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-4f46e5?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-6d28d9?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-4338ca?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jaspersoft-5b21b6?style=flat-square&logo=jaspersoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Crystal%20Reports-4f46e5?style=flat-square&logo=sap&logoColor=white"/>
+
+**Data Platforms & Databases**
+
+<img src="https://img.shields.io/badge/Snowflake-4f46e5?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-5b21b6?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20ERP-6d28d9?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quantum%20ERP-4338ca?style=flat-square&logo=databricks&logoColor=white"/>
+
+**Automation, Tooling & Delivery**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Power%20Automate-4f46e5?style=flat-square&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Apps-5b21b6?style=flat-square&logo=powerapps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-6d28d9?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-4338ca?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-4f46e5?style=flat-square&logo=confluence&logoColor=white"/>
+
+</div>
+
+---
+
+## Analytics & ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:--|:--:|:--|
+| **SQL & Data Modeling** | ![](https://img.shields.io/badge/-Advanced-5b21b6?style=flat-square) | Joins, CTEs, window functions, query optimization, PL/SQL, data validation |
+| **Business Intelligence** | ![](https://img.shields.io/badge/-Advanced-5b21b6?style=flat-square) | Power BI (DAX, Power Query), Tableau, KPI frameworks, executive dashboards |
+| **Financial Analytics** | ![](https://img.shields.io/badge/-Advanced-5b21b6?style=flat-square) | FP&A, cash flow forecasting, variance analysis, CapEx/OpEx and profitability models |
+| **Data Quality & Governance** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | Reconciliation, validation checks, business definitions, audit-ready reporting |
+| **Machine Learning** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | Regression, classification, grid search tuning, scikit-learn, pandas |
+| **Statistics & EDA** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | OLS regression, correlation analysis, hypothesis testing, exploratory analysis |
+| **Process Automation** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | Power Automate, Power Apps, Excel VBA, recurring report automation |
+
+</div>
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>Airbnb Price Prediction Model</b></summary>
+
+<br/>
+
+A supervised machine learning pipeline that predicts nightly Airbnb listing prices from listing attributes, location, and host features.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Python, pandas, NumPy, scikit-learn, Jupyter |
+| **Scale** | Multi-feature listing dataset with categorical and numeric attributes |
+| **Performance** | Regression and classification models tuned with grid search, reducing pricing error |
+| **Security** | Public dataset; no personal data processed |
+| **Impact** | Improved listing value accuracy for pricing decisions |
+| **Repository** | [View Repository](https://github.com/dkunapareddi/airbnb-price-prediction) |
+
+The project covered data cleaning, feature engineering, model comparison across regression and classification approaches, and hyperparameter tuning with grid search to select the best-performing model.
+
+</details>
+
+<details>
+<summary><b>Heart Attack Risk Factor Analysis</b></summary>
+
+<br/>
+
+A statistical analysis identifying the strongest cardiovascular risk factors across 1,000+ patient records.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Python, pandas, statsmodels, matplotlib, seaborn |
+| **Scale** | 1,000+ patient records |
+| **Performance** | OLS regression and correlation analysis improved model accuracy |
+| **Security** | De-identified healthcare dataset |
+| **Impact** | Surfaced the key risk factors driving heart attack likelihood |
+| **Repository** | [View Repository](https://github.com/dkunapareddi/heart-attack-risk-analysis) |
+
+The analysis combined exploratory data analysis, correlation studies, and OLS regression to quantify how clinical and lifestyle variables relate to cardiovascular risk.
+
+</details>
+
+<details>
+<summary><b>FP&A Forecasting & Executive Dashboards</b></summary>
+
+<br/>
+
+An enterprise financial planning and reporting suite built for a precision manufacturing company.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Power BI, DAX, Power Query, Excel, SQL, VBA |
+| **Scale** | KPIs consolidated from 4+ data sources across 5+ departments |
+| **Performance** | Forecast variance reduced by ~25%; forecasting cycle time reduced by ~30% |
+| **Security** | Confidential financial data with audit-aligned controls |
+| **Impact** | Manual reporting time cut by ~40%; zero compliance findings across quarterly cycles |
+| **Repository** | Proprietary (professional work) |
+
+Cash flow forecasting models, CapEx/OpEx scenario tools, and FP&A dashboards gave leadership faster, more reliable visibility into financial performance and planning.
+
+</details>
+
+<details>
+<summary><b>ERP Reporting & Workflow Automation</b></summary>
+
+<br/>
+
+SQL-driven reporting and low-code automation for an aviation MRO operation running on Quantum ERP.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Oracle PL/SQL, SQL, Power Apps, Power Automate, Jaspersoft, Crystal Reports |
+| **Scale** | Inventory, supply chain, and quality data across the enterprise ERP |
+| **Performance** | Optimized queries delivering near real-time operational insights |
+| **Security** | Role-based access to compliance and inventory data |
+| **Impact** | Eliminated ad hoc extraction requests and automated recurring approvals |
+| **Repository** | Proprietary (professional work) |
+
+Validated ERP data with PL/SQL, built compliance and inventory reports, and replaced manual data pulls with automated Power Platform workflows.
+
+</details>
+
+---
+
+## Experience
+
+### System Analyst, IT Department — Ascent Aviation Services
+**June 2025 – Present**
+
+Building SQL-driven reporting and automation that supports aviation MRO operations across inventory, supply chain, and quality teams.
+
+- Develop and optimize PL/SQL queries to extract and validate Quantum ERP data
+- Design and maintain Jaspersoft and Crystal Reports for compliance and executive decision-making
+- Build Power Apps and Power Automate flows that digitize manual processes and approvals
+- Automate recurring data pulls, eliminating ad hoc extraction requests
+
+![](https://img.shields.io/badge/PL%2FSQL-5b21b6?style=flat-square) ![](https://img.shields.io/badge/Power%20Automate-4f46e5?style=flat-square) ![](https://img.shields.io/badge/Power%20Apps-6d28d9?style=flat-square) ![](https://img.shields.io/badge/ERP-4338ca?style=flat-square)
+
+### Data Analyst — Aditya Precitech Private Limited
+**July 2017 – July 2023**
+
+Delivered financial and operational analytics for a precision manufacturer, from forecasting to executive dashboards and ERP alignment.
+
+- Built cash flow forecasting models, reducing forecast variance by ~25% across 5+ departments
+- Designed FP&A dashboards in Power BI and DAX, cutting manual reporting time by ~40%
+- Developed product profitability models by region and client that informed pricing strategy
+- Led SAP ERP gap analysis across 8+ manufacturing workflows
+- Led a scheduling system upgrade to ~90% end-user adoption within 60 days
+
+![](https://img.shields.io/badge/Power%20BI-5b21b6?style=flat-square) ![](https://img.shields.io/badge/Tableau-4f46e5?style=flat-square) ![](https://img.shields.io/badge/FP%26A-6d28d9?style=flat-square) ![](https://img.shields.io/badge/SAP-4338ca?style=flat-square) ![](https://img.shields.io/badge/SQL-5b21b6?style=flat-square)
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:--|:--|
+| **Forecast Accuracy** | Reduced forecast variance by ~25% across 5+ departments |
+| **Reporting Efficiency** | Cut manual reporting time by ~40% with Power BI automation |
+| **Audit Excellence** | Zero compliance findings across quarterly financial reporting cycles |
+| **Change Leadership** | ~90% end-user adoption within 60 days of a system go-live |
+| **Graduate Degree** | M.S. in Business Analytics, Clark University |
+
+</div>
+
+---
+
+## Education
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Clark%20University-M.S.%20Business%20Analytics%20(2023--2024)-5b21b6?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/GITAM%20University-B.E.%20Electronics%20%26%20Communications%20(2013--2017)-4f46e5?style=for-the-badge&logo=academia&logoColor=white"/>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dkunapareddi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&ring_color=8b5cf6"/>
+<img height="170" src="https://streak-stats.demolab.com?user=dkunapareddi&hide_border=true&background=0d1117&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkunapareddi&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=6"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dkunapareddi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkunapareddi&bg_color=0d1117&color=8b5cf6&line=6366f1&point=a78bfa&area=true&area_color=5b21b6&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dkunapareddi/dkunapareddi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dkunapareddi/dkunapareddi/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/dkunapareddi/dkunapareddi/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Snowflake and modern cloud data warehousing
+  - dbt and analytics engineering best practices
+  - Advanced DAX and semantic modeling in Power BI
+
+building:
+  - End-to-end SQL + Python analytics projects
+  - Automated reporting and data quality pipelines
+
+exploring:
+  - AI-assisted analytics and LLM-powered workflows
+  - Predictive forecasting for operations and finance
+
+open_to:
+  - Data Analyst / BI Analyst roles
+  - Business Systems Analyst roles
+  - Financial and Revenue Analytics roles
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:dkunapareddi@gmail.com"><img src="https://img.shields.io/badge/Gmail-dkunapareddi%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/deepthi-sri-kunapareddi"><img src="https://img.shields.io/badge/LinkedIn-deepthi--sri--kunapareddi-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/dkunapareddi"><img src="https://img.shields.io/badge/GitHub-dkunapareddi-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Good data tells you what happened. Great analysis tells you what to do next."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:5b21b6,100:1e1b4b&height=120&section=footer" width="100%"/>
+
+</div>
