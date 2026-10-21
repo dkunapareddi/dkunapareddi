@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+<a href="https://dkunapareddi.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/deepthi-sri-kunapareddi"><img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dkunapareddi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/dkunapareddi"><img src="https://img.shields.io/badge/GitHub-Follow-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -119,7 +120,7 @@ A supervised machine learning pipeline that predicts nightly Airbnb listing pric
 | **Performance** | Regression and classification models tuned with grid search, reducing pricing error |
 | **Security** | Public dataset; no personal data processed |
 | **Impact** | Improved listing value accuracy for pricing decisions |
-| **Repository** | [View Repository](https://github.com/dkunapareddi/airbnb-price-prediction) |
+| **Repository** | Academic project, Clark University · repository coming soon |
 
 The project covered data cleaning, feature engineering, model comparison across regression and classification approaches, and hyperparameter tuning with grid search to select the best-performing model.
 
@@ -139,7 +140,7 @@ A statistical analysis identifying the strongest cardiovascular risk factors acr
 | **Performance** | OLS regression and correlation analysis improved model accuracy |
 | **Security** | De-identified healthcare dataset |
 | **Impact** | Surfaced the key risk factors driving heart attack likelihood |
-| **Repository** | [View Repository](https://github.com/dkunapareddi/heart-attack-risk-analysis) |
+| **Repository** | Academic project, Clark University · repository coming soon |
 
 The analysis combined exploratory data analysis, correlation studies, and OLS regression to quantify how clinical and lifestyle variables relate to cardiovascular risk.
 
@@ -320,6 +321,7 @@ open_to:
 <div align="center">
 
 <a href="mailto:dkunapareddi@gmail.com"><img src="https://img.shields.io/badge/Gmail-dkunapareddi%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://dkunapareddi.github.io"><img src="https://img.shields.io/badge/Portfolio-dkunapareddi.github.io-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/deepthi-sri-kunapareddi"><img src="https://img.shields.io/badge/LinkedIn-deepthi--sri--kunapareddi-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/dkunapareddi"><img src="https://img.shields.io/badge/GitHub-dkunapareddi-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
 
