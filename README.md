@@ -96,7 +96,7 @@ Currently a **System Analyst at Ascent Aviation Services**, building SQL-driven 
 | **Business Intelligence** | ![](https://img.shields.io/badge/-Advanced-5b21b6?style=flat-square) | Power BI (DAX, Power Query), Tableau, KPI frameworks, executive dashboards |
 | **Financial Analytics** | ![](https://img.shields.io/badge/-Advanced-5b21b6?style=flat-square) | FP&A, cash flow forecasting, variance analysis, CapEx/OpEx and profitability models |
 | **Data Quality & Governance** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | Reconciliation, validation checks, business definitions, audit-ready reporting |
-| **Machine Learning** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | Regression, classification, grid search tuning, scikit-learn, pandas |
+| **Machine Learning** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | Random Forest, Neural Network, and Linear Regression; NLP feature extraction; scikit-learn, pandas |
 | **Statistics & EDA** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | OLS regression, correlation analysis, hypothesis testing, exploratory analysis |
 | **Process Automation** | ![](https://img.shields.io/badge/-Proficient-4f46e5?style=flat-square) | Power Automate, Power Apps, Excel VBA, recurring report automation |
 
@@ -107,22 +107,42 @@ Currently a **System Analyst at Ascent Aviation Services**, building SQL-driven 
 ## Featured Projects
 
 <details>
-<summary><b>Airbnb Price Prediction Model</b></summary>
+<summary><b>Airbnb Price Prediction</b></summary>
 
 <br/>
 
-A supervised machine learning pipeline that predicts nightly Airbnb listing prices from listing attributes, location, and host features.
+A machine learning model that predicts nightly Airbnb listing prices for U.S. listings, using listing features and NLP-derived amenity keywords.
 
 | Attribute | Details |
 |:--|:--|
-| **Stack** | Python, pandas, NumPy, scikit-learn, Jupyter |
-| **Scale** | Multi-feature listing dataset with categorical and numeric attributes |
-| **Performance** | Regression and classification models tuned with grid search, reducing pricing error |
-| **Security** | Public dataset; no personal data processed |
-| **Impact** | Improved listing value accuracy for pricing decisions |
-| **Repository** | Academic project, Clark University · repository coming soon |
+| **Stack** | Python, scikit-learn, Random Forest, Neural Network, Linear Regression, NLP |
+| **Scale** | U.S. Airbnb listings; 10 features selected from 18 |
+| **Performance** | Random Forest performed best: MAE 24.73, RMSE 30.35, R² 0.33 |
+| **Security** | Public listing data; no personal data processed |
+| **Impact** | Identified the amenities driving price (entire apartment, gym, pool, views, beach) |
+| **Repository** | [View Repository](https://github.com/dkunapareddi/airbnb-price-prediction) |
 
-The project covered data cleaning, feature engineering, model comparison across regression and classification approaches, and hyperparameter tuning with grid search to select the best-performing model.
+Compared Neural Network, Random Forest, and Linear Regression models on MAE, MSE, RMSE, and R², and used NLP on listing text to measure the price impact of amenities.
+
+</details>
+
+<details>
+<summary><b>Hotel Management System (SQL)</b></summary>
+
+<br/>
+
+A relational MySQL database for hotel reservations, guests, rooms, and payments, designed from an ER model.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | MySQL, SQL, ER modeling, stored procedures, LOAD DATA INFILE |
+| **Scale** | Guests, rooms, reservations, payments, and clients tables, plus a 5-entity conceptual model |
+| **Performance** | Normalized schema with primary and foreign keys; procedure-based lookups |
+| **Security** | Role-based access design for guest and payment data |
+| **Impact** | Automates booking, billing, and reporting workflows for hotel operations |
+| **Repository** | [View Repository](https://github.com/dkunapareddi/hotel-management-system-sql) |
+
+Designed the schema, loaded sample data, built a `GetReservations` stored procedure, and bulk-imported client records from CSV.
 
 </details>
 
@@ -131,18 +151,58 @@ The project covered data cleaning, feature engineering, model comparison across 
 
 <br/>
 
-A statistical analysis identifying the strongest cardiovascular risk factors across 1,000+ patient records.
+A statistical analysis of how medical and lifestyle factors relate to heart attack risk.
 
 | Attribute | Details |
 |:--|:--|
 | **Stack** | Python, pandas, statsmodels, matplotlib, seaborn |
-| **Scale** | 1,000+ patient records |
-| **Performance** | OLS regression and correlation analysis improved model accuracy |
-| **Security** | De-identified healthcare dataset |
-| **Impact** | Surfaced the key risk factors driving heart attack likelihood |
-| **Repository** | Academic project, Clark University · repository coming soon |
+| **Scale** | 8,763 patient records, 20+ features (Kaggle) |
+| **Performance** | Correlation matrix and OLS regression on cholesterol, diabetes, and exercise |
+| **Security** | De-identified public healthcare dataset |
+| **Impact** | Showed that single factors have weak linear effects, motivating non-linear risk models |
+| **Repository** | [View Repository](https://github.com/dkunapareddi/heart-attack-risk-analysis) |
 
-The analysis combined exploratory data analysis, correlation studies, and OLS regression to quantify how clinical and lifestyle variables relate to cardiovascular risk.
+Pre-processed the data, explored distributions, built a correlation matrix, and ran OLS regression to test cholesterol, diabetes, and exercise as predictors.
+
+</details>
+
+<details>
+<summary><b>Millennials vs. Gen Z: Brand Perception (Forever 21)</b></summary>
+
+<br/>
+
+Survey-based consumer research on how generational brand perceptions drive fast-fashion purchasing.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Python, survey research, t-tests, chi-square, ANOVA, regression |
+| **Scale** | 138 survey responses plus qualitative interviews |
+| **Performance** | Trust significantly affected purchase intention (t = −3.646, p = 0.0006) |
+| **Security** | Anonymous survey responses |
+| **Impact** | Data-backed recommendations on social media, influencers, and sustainability |
+| **Repository** | [View Repository](https://github.com/dkunapareddi/forever21-genz-millennial-brand-perception) |
+
+Tested hypotheses about brand values, shopping channels, and social media influence across Millennials and Gen Z.
+
+</details>
+
+<details>
+<summary><b>Amazon Supply Chain Optimization Proposal</b></summary>
+
+<br/>
+
+An information systems proposal to improve the efficiency, cost, sustainability, and resilience of Amazon's supply chain.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Business analysis, IS project planning, Agile, cost-benefit analysis |
+| **Scale** | Procurement, transportation, warehousing, and distribution |
+| **Performance** | 20-month phased plan with milestones, KPIs, and deliverables |
+| **Security** | Security and data-integrity requirements built into the technology integration plan |
+| **Impact** | Roadmap for automation, real-time tracking, and sustainable logistics |
+| **Repository** | [View Repository](https://github.com/dkunapareddi/amazon-supply-chain-optimization) |
+
+Defined the problem, research questions, solution design, cost-benefit analysis, implementation methodology, and project team roles.
 
 </details>
 
